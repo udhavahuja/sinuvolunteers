@@ -1,3 +1,0 @@
-Udhav Ahuja (18-10-2025) 
-Apparently we need to know OOPs for learning java hence I got back to the language I know best - Python. 
-So I learnt about classes, objects, attributes (properties of objects) and methods. Apna college 1st lecture along with 1 basic program
