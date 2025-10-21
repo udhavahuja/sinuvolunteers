@@ -1,4 +1,4 @@
-*Udhav Ahuja (18-10-2025)* 
+**Udhav Ahuja (18-10-2025)** 
 Apparently we need to know OOPs for learning java hence I got back to the language I know best - Python. 
 So I learnt about classes, objects, attributes (properties of objects) and methods. Apna college 1st lecture along with 1 basic program
 UPDATE: I also learnt about Static methods, Abstraction and Encapsulation (Can't enter note because they are on register)
@@ -8,3 +8,8 @@ vidCode3: <img width="1482" height="1002" alt="image" src="https://github.com/us
           <img width="717" height="1002" alt="image" src="https://github.com/user-attachments/assets/094fa88b-ab16-4e67-b47d-9dc4eeb54a5b" />
           <img width="563" height="950" alt="image" src="https://github.com/user-attachments/assets/4db93284-042e-494f-a204-5da502639a10" />
           <img width="528" height="608" alt="image" src="https://github.com/user-attachments/assets/a43afbf7-ab86-4759-93b7-15defbb5d07a" />
+
+          
+**Udhav Ahuja (21-10-2025)**
+I am back with OOPs (Not completed yet) and learnt about some basick (that was a wordplay) like del PRIVATE attributes & methods and most importantly inheritance.
+Thats it, it was a hectic day so could only give 20 min but it is festive season(LOL)
