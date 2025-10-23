@@ -11,7 +11,7 @@ vidCode3: <img width="1482" height="1002" alt="image" src="https://github.com/us
 
           
 **Udhav Ahuja (21-10-2025)**
-I am back with OOPs (Not completed yet) and learnt about some basick (that was a wordplay) like del PRIVATE attributes & methods and most importantly inheritance.
+I am back with OOPs (Not completed yet) and learnt about some basick (that was a wordplay) functions like del PRIVATE attributes & methods and most importantly inheritance.
 Thats it, it was a hectic day so could only give 20 min but it is festive season(LOL)
 
 
