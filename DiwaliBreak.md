@@ -13,3 +13,10 @@ vidCode3: <img width="1482" height="1002" alt="image" src="https://github.com/us
 **Udhav Ahuja (21-10-2025)**
 I am back with OOPs (Not completed yet) and learnt about some basick (that was a wordplay) like del PRIVATE attributes & methods and most importantly inheritance.
 Thats it, it was a hectic day so could only give 20 min but it is festive season(LOL)
+
+
+**Udhav Ahuja (23-10-2025)**
+Ok I see a pattern in dates anyways I finally completed OOPs (Don't say that I took more time than needed festive season is indeed busy). So today I got on Hands with class method, decorators, Polymorphism and Operator Overloading. Also got to know about dunder fuction
+<img width="1140" height="571" alt="Screenshot 2025-10-23 170139" src="https://github.com/user-attachments/assets/b55705a9-5689-4c70-8c1b-af6667b820a5" />
+<img width="1074" height="866" alt="Screenshot 2025-10-23 171646" src="https://github.com/user-attachments/assets/6e8e40a7-c3f4-4227-b2ab-f717b2b6f311" />
+Did one more but didnt click the ss and now i feel lazy to do it. Anyways thats it for today.
